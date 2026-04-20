@@ -1,5 +1,5 @@
 # SQL Database Management Coursework: Rental Performance Evaluation
-This repository contains a comprehensive performance evaluation of a movie rental system, utilizing PostgreSQL and Python to derive actionable business insights. The project focuses on identifying revenue drivers, optimizing inventory, and segmenting customer behavior through advanced relational database querying.
+This repository contains a comprehensive performance evaluation of a movie rental system, utilizing SQL and Python to derive actionable business insights. The project focuses on identifying revenue drivers, optimizing inventory, and segmenting customer behavior through advanced relational database querying.
 
 ## 📋 Project Outline
 - The evaluation is structured into eight key analytical modules:
