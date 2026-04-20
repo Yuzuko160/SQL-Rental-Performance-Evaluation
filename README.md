@@ -17,7 +17,6 @@ This repository contains a comprehensive performance evaluation of a movie renta
 - Inventory Optimization: Identifying the "bottom 20" and zero-rental films for platform pruning.
 
 ## 🛠️ Technical Skills Acquired
-this project demonstrated proficiency in:
 
 - Complex Joins: Connecting multiple relational tables (Inventory, Rentals, Payments, Customers, and Addresses).
 
